@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fish For W2</string>
+    <string name="edit_message">Enter message</string>
+    <string name="button_send">Send</string>
+    <string name="button_to_fragAct">To fragment Activity</string>
+    <string name="fragment_view_greeting">Welcoming view on fragment</string>
+    <string name="fragment_alternative_greeting">Welcoming view on alternative fragment</string>
+</resources>
